@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(232, 171, 92, 0.489);
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 300;
+    display: block;
+    background-color: rgba(62, 96, 7, 0.637);
+    width: 600px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+a {
+     font-family: "Brush Script MT" auto;
+     font-size: 20px;
+     text-decoration: none;
+     color: black;
+}
